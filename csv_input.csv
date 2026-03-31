@@ -1,0 +1,11 @@
+id,name,category,price
+1,Apple,Fruit,0.5
+2,Banana,Fruit,0.3
+3,Carrot,Vegetable,0.2
+4,Bread,Bakery,1.5
+5,Milk,Dairy,1.0
+6,Chicken,Meat,5.0
+7,Rice,Grain,2.0
+8,Orange,Fruit,0.6
+9,Cheese,Dairy,2.5
+10,Tomato,Vegetable,0.4
